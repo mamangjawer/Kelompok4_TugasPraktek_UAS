@@ -3,7 +3,7 @@ class ApiConstants {
   static const String baseUrl = 'https://newsapi.org/v2';
 
   //* API Key (sebaiknya disimpan lebih aman di .env)
-  static const String apiKey = '784a539e677349c1931548178e61013a';
+  static const String apiKey = ''http:'http://45.149.187.204:3000/api/auth/login';
 
   //* Endpoints
   static const String everythingEndpoint = '/everything';
